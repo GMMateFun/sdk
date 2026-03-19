@@ -4,7 +4,7 @@
 
 > Built for creators who want to focus on building, not tracking.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : 2Wzi7wedbS3LH7MKu4ysMujz8RGmpkmehURmDb3opump
 ---
 
 ## 🌐 Links
